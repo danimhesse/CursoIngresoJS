@@ -7,8 +7,8 @@ function mostrar()
 
 	let nombreCompleto;
 
-	nombre = prompt("Inserte aquí su nombre");
-	
+	nombre = prompt("Inserte acá su nombre");
+
 	alert(nombre);
 }
 
